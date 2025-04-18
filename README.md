@@ -11,8 +11,7 @@ Hi there! 👋 I'm Jay Panchal, a **dreamer**, **creator**, and **innovator** pa
 🎓 Pursuing a **5-Year Integrated MSc in Computer Science (AI)** at **Department of Computer Science, Gujarat University**  
 🛠️ Turning complex ideas into **elegant solutions**  
 🎨 Bringing life to the web with **advanced CSS wizardry**  
-🏆 Awarded by my college’s **Head of Department** for digitizing manual workflows  
-
+🏆 My projects are acknowledged by the proffesors of department.
 ---
 
 ## 🛠️ My Arsenal  
